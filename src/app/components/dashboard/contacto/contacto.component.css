@@ -1,0 +1,19 @@
+.icono {
+  width: 50px;
+  margin-top: 50px;
+}
+ul {
+  font-size: 30px;
+  list-style: none;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+svg {
+  margin-right: 10px;
+}
+

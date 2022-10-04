@@ -1,0 +1,24 @@
+table {
+  width: 100%;
+  margin-top: 5px;
+}
+th {
+  width: auto;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+a {
+  cursor: pointer;
+  color: rgb(128, 18, 18);
+}
+
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.buscar {
+  font-size: 18px;
+}
